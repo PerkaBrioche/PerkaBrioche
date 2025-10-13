@@ -9,7 +9,7 @@
 
 - 🤗 I have a very good **understanding of Unity (C#) and Unreal (C++/Blueprints).**
 
-- 📫 How to reach me **lemergabriel55@gmail.com**
+- 📫 reach me here : **lemergabriel55@gmail.com**
 
 - 📄 Know about my experiences [https://lemergabriel55.wixsite.com/portfolio](https://lemergabriel55.wixsite.com/portfolio)
 
