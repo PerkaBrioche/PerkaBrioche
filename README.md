@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=perkabrioche&label=Profile%20views&color=0e75b6&style=flat" alt="perkabrioche" /> </p>
 
-- 🌱 I’m currently learning **C++ on Unreal Engine 5**
+- 🌱 I’m a indie game dev <3
 
 - 👨‍💻 All of my projects are available at [https://perka.itch.io/](https://perka.itch.io/)
 
